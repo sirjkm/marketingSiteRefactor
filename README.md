@@ -1,2 +1,2 @@
-# marketingSiteRefractor
-Refractor for code of Marketing agency
+# marketingSiteRefactor
+Refactor for code of Marketing agency
