@@ -121,17 +121,7 @@ p {
 }
 
 /* Styling for Content in body */
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
+..benefit_sub {
     margin-bottom: 32px;
     color: #ffffff;
 }
