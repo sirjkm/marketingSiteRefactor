@@ -121,7 +121,7 @@ p {
 }
 
 /* Styling for Content in body */
-..benefit_sub {
+.benefit_sub {
     margin-bottom: 32px;
     color: #ffffff;
 }
